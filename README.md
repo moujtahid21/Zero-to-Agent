@@ -25,11 +25,11 @@ This repository is structured to follow our blog series. Each step will have its
 
 - [ ] 4. 🎭 [Types of AI Agents](./04-agent-types/04-agent-types.md): Exploring the zoo of agents: from simple tools to cognitive architectures.
 
-- [ ] 5. ⚙️ Workflow vs. Agent: Understanding the critical difference between static processes and dynamic agents.
+- [ ] 5. ⚙️ [Workflow vs. Agent](./05-workflow-vs-agent/05-workflow-vs-agent.md): Understanding the critical difference between static processes and dynamic agents.
 
-- [ ] 6. 🏛️ Agent Architectures: Designing the "brain" of a single, effective agent.
+- [ ] 6. 🏛️ [Agent Architectures](./06-architectures/06-architectures.md): Designing the "brain" of a single, effective agent.
 
-- [ ] 7. 🤝 Multi-Agent Architectures: Learning how to make multiple agents collaborate effectively.
+- [ ] 7. 🤝 [Multi-Agent Architectures](./07-multiagent-architectures/07-multiagent-architectures.md): Learning how to make multiple agents collaborate effectively.
 
 - [ ] 8. 🏙️ Building a Multi-Agent System: Putting theory into practice with a team of agents.
 
