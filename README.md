@@ -1,5 +1,5 @@
 # 🚀 Zero to Agent: Your Guide to Building AI Agents 🤖
-o the official repository for the Zero to Agent series! This project is a comprehensive, hands-on guide to understanding, building, and deploying intelligent AI agents from the ground up.
+Welcome to the official repository for the Zero to Agent series! This project is a comprehensive, hands-on guide to understanding, building, and deploying intelligent AI agents from the ground up.
 
 This repository contains all the source code, examples, and resources that accompany our step-by-step blog series. Whether you're a beginner or an experienced developer, you'll find everything you need to start your journey into the world of agentic AI.
 
