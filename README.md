@@ -19,11 +19,11 @@ This repository is structured to follow our blog series. Each step will have its
 
 - [ ] 1. Introduction: Setting the stage for our journey.
 
-- [ ] 2. 🏗️ Build an Agent from Scratch: Writing our very first line of agentic code.
+- [ ] 2. 🏗️ [Build an Agent from Scratch](./02-first-agent/02-first-agent.md): Writing our very first line of agentic code.
 
-- [ ] 3. 🖼️ AI Agent Frameworks: Comparing and using tools that accelerate development.
+- [ ] 3. 🖼️ [AI Agent Frameworks](./03-frameworks/03-frameworks.md): Comparing and using tools that accelerate development.
 
-- [ ] 4. 🎭 Types of AI Agents: Exploring the zoo of agents: from simple tools to cognitive architectures.
+- [ ] 4. 🎭 [Types of AI Agents](./04-agent-types/04-agent-types.md): Exploring the zoo of agents: from simple tools to cognitive architectures.
 
 - [ ] 5. ⚙️ Workflow vs. Agent: Understanding the critical difference between static processes and dynamic agents.
 
